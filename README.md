@@ -29,4 +29,4 @@ To run the Colorful Memory Game, you need a web browser that supports HTML5, CSS
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/watashiaashishgurung/jscoursetesting.git
+   git clone https://github.com/watashiaashishgurung/colorfulMemoryGame.git
