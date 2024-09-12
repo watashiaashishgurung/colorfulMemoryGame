@@ -26,6 +26,11 @@ body {
 h1 {
     color: #fff;
     text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+    border-color: #ddd;
+    border-radius: 10%;
+    padding: 10px;
 }
 
 #game-container {
@@ -59,12 +64,16 @@ h1 {
     text-align: center;
     font-size: 24px;
     color: #fff;
+    border: #ddd 2px dotted;
+    padding: 10px;
 }
 
 #timer {
     text-align: center;
     font-size: 24px;
     color: #fff;
+    border: #ddd 2px dotted;
+    padding: 10px;
 }
 
 #startbtn{
@@ -73,4 +82,20 @@ h1 {
     color: #3498db;
     border: none;
     font-weight: 900;
+    border-radius: 6px;
+}
+
+/* New CSS for the box element */
+.box {
+    width: auto;
+    height: auto;
+    background-color: #3498db;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 18px;
 }
