@@ -25,6 +25,10 @@ The Colorful Memory Game is a fun and interactive web-based game designed to tes
 
 To run the Colorful Memory Game, you need a web browser that supports HTML5, CSS3, and JavaScript.
 
+## Live Demo
+
+You can see a live demo of colorfulMemoryGame by following this [link](https://watashiaashishgurung.github.io/colorfulMemoryGame/).
+
 ### <span style="color:#34495E;">Installation</span>
 
 1. Clone the repository:
